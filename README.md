@@ -1,2 +1,3 @@
-# prithibot
-the bot help you in anything.
+~~~
+learning markdown code
+~~~
