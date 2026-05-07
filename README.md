@@ -2,6 +2,7 @@
 
 ~~~
 kv bapeta (12th grade , pcm and cs)
-H<sub>2</sub>0
-H<sub>2</sub>0
+**Location:** Guwahati, Assam , India
+**Email:**nayan@gamil.com
 ~~~
+![ your github stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
