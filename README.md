@@ -10,6 +10,5 @@ kv bapeta (12th grade , pcm and cs)
 ###### Abhi bhi learn kar raha hu
 
 ```
-###practice makes man perfect
-
-~~~
+##practice makes man perfect
+```
